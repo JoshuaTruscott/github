@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Overrinhrtjw this is 2 de point for cus
+        // Overrinhrtjw this is 2 checksde point for cus
         //tomization after application launch.
         return true
     }
