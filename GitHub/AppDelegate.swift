@@ -15,7 +15,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+<<<<<<< HEAD
         // Overrinhrtjw this is 2 de point for customization after application launch.
+=======
+        // Override point for customization after application launch.
+>>>>>>> parent of 7104306... 1
         return true
     }
 
